@@ -1,4 +1,4 @@
-# Bit Forge ![arduino-f]
+# Bit Forge [![arduino-f]](https://github.com/bf-arduino)
 
 [arduino-f]: https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white&cacheSeconds=3600
 [eng-logo]: https://img.shields.io/badge/-eng-blue?style=flat-square&logo=googletranslate&logoColor=white&labelColor=grey&cacheSeconds=3600
